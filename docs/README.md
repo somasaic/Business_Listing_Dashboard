@@ -19,5 +19,9 @@ concepts were used. Read the steps in order. Each one builds on the previous.
 | [10](10-database-dump.md) | Database dump | mysqldump flags, restore |
 | [11](11-submission-and-demo.md) | Submission and demo video | checklist, video script, email |
 
+**Setting up on a new machine?** Start with [PREREQUISITES_AND_SETUP.md](PREREQUISITES_AND_SETUP.md)
+(install → clone → update details → run → record). For day-to-day start/stop
+and troubleshooting, see [running_and_managing.md](running_and_managing.md).
+
 **Final numbers:** 2,733 listings · 8 cities · 13 categories · 2 sources · 583
 with phone numbers · 7 required and extra API endpoints · 33 automated tests.
