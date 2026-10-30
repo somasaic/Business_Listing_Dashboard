@@ -23,5 +23,7 @@ concepts were used. Read the steps in order. Each one builds on the previous.
 (install → clone → update details → run → record). For day-to-day start/stop
 and troubleshooting, see [running_and_managing.md](running_and_managing.md).
 
+**Preparing for the interview?** Read [INTERVIEW_PREP.md](INTERVIEW_PREP.md).
+
 **Final numbers:** 2,733 listings · 8 cities · 13 categories · 2 sources · 583
 with phone numbers · 7 required and extra API endpoints · 33 automated tests.
